@@ -3,5 +3,5 @@
 - Hoàng Danh Quân (20205112)
 - Nguyễn Hà Phú Thịnh (20205131)
 # Chú thích:
-- Bài 2: + Bai2.c sử dụng giải thuật tham lam
-         + Bai2'.c sử dụng giải thuật quy hoạch động
+- Bai2.c sử dụng giải thuật tham lam
+- Bai2'.c sử dụng giải thuật quy hoạch động
