@@ -101,7 +101,7 @@ int TuQuy(int nv[13][4]){
 		}
 	}
 	if (c_tuquy==0){
-		printf("\nKhong co tu quy den ghe ban oi");
+		printf("\nKhong co tu quy den ghe ban oi\n");
 	}
 }
 
