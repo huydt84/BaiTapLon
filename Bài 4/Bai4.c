@@ -1,7 +1,7 @@
 #include<stdio.h>
-// #include<stdlib.h>
-//#include<time.h>
-//#include<windows.h>
+#include<stdlib.h>
+#include<time.h>
+#include<windows.h>
 
 void GoiTen(int n){
 	int m = n / 4;
